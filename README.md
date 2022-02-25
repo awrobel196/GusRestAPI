@@ -24,3 +24,9 @@ Numer REGON walidowany jest za pomocą metody rozszerzającej `IsCorrectRegon()`
 
 #### IIIc. ApiKey
 Klucz api (`ApiKey`) walidowany jest za pomocą metody `_authorization.Login(apiKey, _uslugaBi)`, któa przy pomocy mechanizmu udostępnionego przez GUS API sprawdza, czy podany klucz api jest poprawny. Jeśli klucz api jest niepoprawny, zwracany zostaje kod `401 - Unauthorized`
+
+---
+
+### IV. Planowany rozwój oprogramowania
+- [ ] Obługa ponownego wywołania usług GUS za pomocą Polly
+- [ ] Implementacja serwisu przy użyciu minimal API
