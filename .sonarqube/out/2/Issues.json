@@ -1,0 +1,157 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Kompilator Microsoft (R) Visual C#",
+        "version": "4.0.0.0",
+        "fileVersion": "4.0.1-1.21569.2 (52021b4b)",
+        "semanticVersion": "4.0.0",
+        "language": "pl-PL"
+      },
+      "results": [
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/adam/source/repos/GusRestAPI/src/Application/Query/BaseQuery.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 24,
+                  "endLine": 12,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/adam/source/repos/GusRestAPI/src/Application/Query/BaseQuery.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 24,
+                  "endLine": 13,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/adam/source/repos/GusRestAPI/src/Application/Query/BaseQuery.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 40,
+                  "endLine": 14,
+                  "endColumn": 62
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'enc'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/adam/source/repos/GusRestAPI/src/Application/Services/SetupBinding.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 17,
+                  "endLine": 16,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'scope'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/adam/source/repos/GusRestAPI/src/Application/Services/AuthorizationService.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 35,
+                  "endLine": 32,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S1104": {
+          "id": "S1104",
+          "shortDescription": "Fields should not have public accessibility",
+          "fullDescription": "Public fields in public classes do not respect the encapsulation principle and has three main disadvantages:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1104",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "If a local variable is declared but not used, it is dead code and should be removed. Doing so will improve maintainability because developers will not wonder what the variable is used for.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

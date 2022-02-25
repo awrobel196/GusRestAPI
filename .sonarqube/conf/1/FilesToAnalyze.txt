@@ -1,0 +1,2 @@
+﻿C:\Users\adam\source\repos\GusRestAPI\src\Infrastructure\Connected Services\GusServiceReference\Reference.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Infrastructure\Connected Services\GusServiceReference\ConnectedService.json

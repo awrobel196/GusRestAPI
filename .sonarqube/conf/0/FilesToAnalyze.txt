@@ -1,0 +1,4 @@
+﻿C:\Users\adam\source\repos\GusRestAPI\src\Domain\Models\OsobaPrawna.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Domain\Models\Pkd.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Domain\Models\Podmiot.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Domain\Models\Wspolnicy.cs

@@ -1,0 +1,17 @@
+﻿C:\Users\adam\source\repos\GusRestAPI\src\Application\DependencyInjection.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\Extensions\OsobaPrawnaExtensions.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\Extensions\PkdExtensions.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\Extensions\PodmiotExtensions.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\Extensions\StringExtensions.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\Extensions\WspolnicyExtensions.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\OsobaPrawnas\Queries\GetOsobaPrawnaQuery.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\Pkds\Queries\GetPkdQuery.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\Podmiots\Queries\GetPodmiotQuery.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\Query\BaseQuery.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\Services\AuthorizationService.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\Services\Interfaces\IAuthorizationService.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\Services\Interfaces\ISetupBinding.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\Services\Interfaces\IXmlResponseConverter.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\Services\SetupBinding.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\Services\XmlResponseConverter.cs
+C:\Users\adam\source\repos\GusRestAPI\src\Application\Wspolnicys\Queries\GetWspolnicyQuery.cs

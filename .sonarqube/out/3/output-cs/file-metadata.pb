@@ -1,0 +1,11 @@
+W
+NC:\Users\adam\source\repos\GusRestAPI\src\WebAPI\Controllers\BaseController.csutf-8^
+UC:\Users\adam\source\repos\GusRestAPI\src\WebAPI\Controllers\OsobaPrawnaController.csutf-8V
+MC:\Users\adam\source\repos\GusRestAPI\src\WebAPI\Controllers\PkdController.csutf-8Z
+QC:\Users\adam\source\repos\GusRestAPI\src\WebAPI\Controllers\PodmiotController.csutf-8\
+SC:\Users\adam\source\repos\GusRestAPI\src\WebAPI\Controllers\WspolnicyController.csutf-8D
+;C:\Users\adam\source\repos\GusRestAPI\src\WebAPI\Program.csutf-8e
+ZC:\Users\adam\source\repos\GusRestAPI\src\WebAPI\obj\Debug\net6.0\WebAPI.GlobalUsings.g.csutf-8{
+pC:\Users\adam\source\repos\GusRestAPI\src\WebAPI\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8c
+XC:\Users\adam\source\repos\GusRestAPI\src\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.csutf-8v
+kC:\Users\adam\source\repos\GusRestAPI\src\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.csutf-8

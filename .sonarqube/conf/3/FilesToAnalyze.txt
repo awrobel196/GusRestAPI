@@ -1,0 +1,13 @@
+﻿C:\Users\adam\source\repos\GusRestAPI\src\WebAPI\Controllers\BaseController.cs
+C:\Users\adam\source\repos\GusRestAPI\src\WebAPI\Controllers\OsobaPrawnaController.cs
+C:\Users\adam\source\repos\GusRestAPI\src\WebAPI\Controllers\PkdController.cs
+C:\Users\adam\source\repos\GusRestAPI\src\WebAPI\Controllers\PodmiotController.cs
+C:\Users\adam\source\repos\GusRestAPI\src\WebAPI\Controllers\WspolnicyController.cs
+C:\Users\adam\source\repos\GusRestAPI\src\WebAPI\Program.cs
+C:\Users\adam\source\repos\GusRestAPI\src\WebAPI\obj\Debug\net6.0\WebAPI.GlobalUsings.g.cs
+C:\Users\adam\source\repos\GusRestAPI\src\WebAPI\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\adam\source\repos\GusRestAPI\src\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\adam\source\repos\GusRestAPI\src\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adam\source\repos\GusRestAPI\src\WebAPI\appsettings.Development.json
+C:\Users\adam\source\repos\GusRestAPI\src\WebAPI\appsettings.json
+C:\Users\adam\source\repos\GusRestAPI\src\WebAPI\Properties\launchSettings.json
